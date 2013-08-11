@@ -1,11 +1,12 @@
 <?php
-ini_set('display_errors',1); 
- error_reporting(E_ALL);
+
+@define(base_folder, 'archivio_foto/');
+
 $_GET['cartella'];
 include_once('Funzioni/ImageGallery.php');
 include_once('Funzioni/Exifinfo.php');
 
-@define(base_folder, 'archivio_foto/');
+
 
 $folder_list = getFolderList(base_folder);
 
