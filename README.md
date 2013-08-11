@@ -11,17 +11,13 @@ Php script that create an image gallery and show's exifi info
 
 - Download the respository
 
-- Create a folder named 'archivio_foto'
+- Create a folder that contains all folders and files of imagegallery, 
 
-- Upload image galery folder and file insede the 'archivio_foto' folder
+- Edit the php constant named base_folder inside de index.php
 
-
-
-------------------------------------------------------------------------
+- Upload image galery folder and file insede the 'base_folder'
 
 
-Working example 
 
 
---------------------------------------------------------------------------
 
