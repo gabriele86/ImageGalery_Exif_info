@@ -13,7 +13,7 @@ Php script that create an image gallery and show's exifi info
 
 - Create a folder that contains all folders and files of imagegallery, 
 
-- Edit the php constant named base_folder inside de index.php
+- Edit the php constant named base_folder inside the index.php
 
 - Upload image galery folder and file insede the 'base_folder'
 
